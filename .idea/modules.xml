@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/realms_plusplus.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/realms_plusplus.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/realms_plusplus.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/realms_plusplus.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/realms_plusplus.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/realms_plusplus.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/realms_plusplus.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/realms_plusplus.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/realms_plusplus.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/realms_plusplus.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/realms_plusplus.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/realms_plusplus.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/realms_plusplus.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/realms_plusplus.neoforge.test.iml" />
+    </modules>
+  </component>
+</project>
