@@ -1,0 +1,17 @@
+{
+    "id": "",
+    "root": "/home/george/Workspace/Realms++",
+    "nodes": [
+        {
+            "project": "1.21.1-fabric",
+            "version": "1.21.1",
+            "active": true,
+            "path": "/home/george/Workspace/Realms++/versions/1.21.1-fabric"
+        },
+        {
+            "project": "1.21.1-neoforge",
+            "version": "1.21.1",
+            "path": "/home/george/Workspace/Realms++/versions/1.21.1-neoforge"
+        }
+    ]
+}

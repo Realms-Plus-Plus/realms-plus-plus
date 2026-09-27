@@ -1,0 +1,22 @@
+{
+    "project": "1.21.1-fabric",
+    "version": "1.21.1",
+    "active": true,
+    "branch": {
+        "id": "",
+        "path": "/home/george/Workspace/Realms++"
+    },
+    "root": "/home/george/Workspace/Realms++",
+    "parameters": {
+        "dependencies": {
+            "": {
+                "type": "dev.kikugie.semver.data.SemanticVersion",
+                "components": [
+                    1,
+                    21,
+                    1
+                ]
+            }
+        }
+    }
+}
