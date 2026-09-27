@@ -1,16 +1,29 @@
 pluginManagement {
     repositories {
-        maven { url = 'https://maven.fabricmc.net/' }
-        maven { url = 'https://maven.architectury.dev/' }
-        maven { url = 'https://files.minecraftforge.net/maven/' }
-        maven { url = 'https://maven.neoforged.net/releases/' }
         mavenCentral()
         gradlePluginPortal()
+
+        maven { url = 'https://maven.kikugie.dev/releases' }
+        maven { url = 'https://maven.fabricmc.net/' }
+        maven { url = 'https://maven.architectury.dev' }
+        maven { url = 'https://maven.minecraftforge.net/' }
+        maven { url = 'https://maven.neoforged.net/releases/' }
     }
 }
 
-rootProject.name = 'realms_plusplus'
+plugins {
+    id 'dev.kikugie.stonecutter' version '0.7.10'
+}
 
-include 'common'
-include 'fabric'
-include 'neoforge'
+stonecutter {
+    centralScript = 'build.gradle'
+
+    shared {
+        vers('1.21.1-fabric', '1.21.1')
+        vers('1.21.1-neoforge', '1.21.1')
+    }
+
+    create(rootProject)
+}
+
+rootProject.name = 'realms_plusplus'
