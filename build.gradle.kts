@@ -65,7 +65,7 @@ dependencies {
 }
 
 loom {
-    accessWidenerPath = rootProject.file("src/main/resources/template.accesswidener")
+    accessWidenerPath = rootProject.file("src/main/resources/realmspp.accesswidener")
 
     decompilers {
         get("vineflower").apply { // Adds names to lambdas - useful for mixins
@@ -74,8 +74,8 @@ loom {
     }
     if (loader == "forge") {
         forge.mixinConfigs(
-            "template-common.mixins.json",
-            "template-forge.mixins.json",
+            "realmspp-common.mixins.json",
+            "realmspp-forge.mixins.json",
         )
     }
 }

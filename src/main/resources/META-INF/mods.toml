@@ -1,19 +1,19 @@
 modLoader = "javafml"
 loaderVersion = "*"
 license = "LGPLv3"
-issueTrackerURL="https://AuthorExample/TempLate/issues"
+issueTrackerURL="https://biskasarchaniotakis/RealmsPP/issues"
 
 [[mods]]
-modId = "template"
+modId = "realmspp"
 version = "${version}"
 displayName = "${name}"
-authors = "AuthorExample"
+authors = "biskasarchaniotakis"
 description = ""
-logoFile = "assets/template/icon.png"
+logoFile = "assets/realmspp/icon.png"
 logoBlur = false
 
 [[mixins]]
-config = "template-common.mixins.json"
+config = "realmspp-common.mixins.json"
 
 [[mixins]]
-config = "template-neoforge.mixins.json"
+config = "realmspp-neoforge.mixins.json"

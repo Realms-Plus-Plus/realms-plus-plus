@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "package": "io.github.realms_plusplus.realmspp.platforms.forge.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

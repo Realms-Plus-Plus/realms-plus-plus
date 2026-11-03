@@ -5,7 +5,7 @@
   "name": "${name}",
   "description": "",
   "authors": [
-    "AuthorExample"
+    "biskasarchaniotakis"
   ],
   "contact": {
   },
@@ -14,15 +14,15 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.example.template.platforms.fabric.TempLateFabric"
+      "io.github.realms_plusplus.realmspp.platforms.fabric.RealmsPPFabric"
     ],
     "modmenu": [
-      "com.example.template.platforms.fabric.ModMenuIntegration"
+      "io.github.realms_plusplus.realmspp.platforms.fabric.ModMenuIntegration"
     ]
   },
   "mixins": [
-    "template-common.mixins.json",
-    "template-fabric.mixins.json"
+    "realmspp-common.mixins.json",
+    "realmspp-fabric.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.15",
