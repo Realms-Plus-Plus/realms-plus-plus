@@ -1,0 +1,27 @@
+metadata:
+  project: "1.21.1-neoforge"
+  version: "1.21.1"
+root: "../.."
+branch:
+  id: ""
+  path: "../.."
+active: false
+parameters:
+  constants:
+    "fabric": false
+    "forge": false
+    "neoforge": true
+  swaps: {}
+  dependencies: {}
+  excludedExtensions:
+  - "png"
+  - "jpg"
+  - "jpeg"
+  - "webp"
+  - "gif"
+  - "svg"
+  - "mp3"
+  - "wav"
+  - "ogg"
+  - "DS_Store"
+  excludedPaths: []

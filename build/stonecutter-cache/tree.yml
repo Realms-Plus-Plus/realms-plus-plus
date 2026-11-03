@@ -1,0 +1,139 @@
+stonecutter: "0.5"
+vcs:
+  project: "1.20.1-fabric"
+  version: "1.20.1"
+current:
+  project: "1.21.9-neoforge"
+  version: "1.21.9"
+branches:
+- id: ""
+  path: ""
+nodes:
+- metadata:
+    project: "1.20.1-fabric"
+    version: "1.20.1"
+  path: "versions/1.20.1-fabric"
+  active: false
+- metadata:
+    project: "1.20.4-fabric"
+    version: "1.20.4"
+  path: "versions/1.20.4-fabric"
+  active: false
+- metadata:
+    project: "1.21.1-fabric"
+    version: "1.21.1"
+  path: "versions/1.21.1-fabric"
+  active: false
+- metadata:
+    project: "1.21.3-fabric"
+    version: "1.21.3"
+  path: "versions/1.21.3-fabric"
+  active: false
+- metadata:
+    project: "1.21.4-fabric"
+    version: "1.21.4"
+  path: "versions/1.21.4-fabric"
+  active: false
+- metadata:
+    project: "1.21.5-fabric"
+    version: "1.21.5"
+  path: "versions/1.21.5-fabric"
+  active: false
+- metadata:
+    project: "1.21.6-fabric"
+    version: "1.21.6"
+  path: "versions/1.21.6-fabric"
+  active: false
+- metadata:
+    project: "1.21.7-fabric"
+    version: "1.21.7"
+  path: "versions/1.21.7-fabric"
+  active: false
+- metadata:
+    project: "1.21.8-fabric"
+    version: "1.21.8"
+  path: "versions/1.21.8-fabric"
+  active: false
+- metadata:
+    project: "1.21.9-fabric"
+    version: "1.21.9"
+  path: "versions/1.21.9-fabric"
+  active: false
+- metadata:
+    project: "1.21.10-fabric"
+    version: "1.21.10"
+  path: "versions/1.21.10-fabric"
+  active: false
+- metadata:
+    project: "1.21.11-fabric"
+    version: "1.21.11"
+  path: "versions/1.21.11-fabric"
+  active: false
+- metadata:
+    project: "1.20.1-forge"
+    version: "1.20.1"
+  path: "versions/1.20.1-forge"
+  active: false
+- metadata:
+    project: "1.20.4-neoforge"
+    version: "1.20.4"
+  path: "versions/1.20.4-neoforge"
+  active: false
+- metadata:
+    project: "1.21.1-neoforge"
+    version: "1.21.1"
+  path: "versions/1.21.1-neoforge"
+  active: false
+- metadata:
+    project: "1.21.3-neoforge"
+    version: "1.21.3"
+  path: "versions/1.21.3-neoforge"
+  active: false
+- metadata:
+    project: "1.21.4-neoforge"
+    version: "1.21.4"
+  path: "versions/1.21.4-neoforge"
+  active: false
+- metadata:
+    project: "1.21.5-neoforge"
+    version: "1.21.5"
+  path: "versions/1.21.5-neoforge"
+  active: false
+- metadata:
+    project: "1.21.6-neoforge"
+    version: "1.21.6"
+  path: "versions/1.21.6-neoforge"
+  active: false
+- metadata:
+    project: "1.21.7-neoforge"
+    version: "1.21.7"
+  path: "versions/1.21.7-neoforge"
+  active: false
+- metadata:
+    project: "1.21.8-neoforge"
+    version: "1.21.8"
+  path: "versions/1.21.8-neoforge"
+  active: false
+- metadata:
+    project: "1.21.9-neoforge"
+    version: "1.21.9"
+  path: "versions/1.21.9-neoforge"
+  active: true
+- metadata:
+    project: "1.21.10-neoforge"
+    version: "1.21.10"
+  path: "versions/1.21.10-neoforge"
+  active: false
+- metadata:
+    project: "1.21.11-neoforge"
+    version: "1.21.11"
+  path: "versions/1.21.11-neoforge"
+  active: false
+parameters:
+  debug: false
+  process: true
+  receiver: "minecraft"
+  chiseled:
+  - "chiseledBuild"
+  - "chiseledPublishMods"
+  - "chiseledRunAllClients"

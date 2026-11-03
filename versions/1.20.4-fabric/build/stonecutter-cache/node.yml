@@ -1,0 +1,27 @@
+metadata:
+  project: "1.20.4-fabric"
+  version: "1.20.4"
+root: "../.."
+branch:
+  id: ""
+  path: "../.."
+active: false
+parameters:
+  constants:
+    "fabric": true
+    "forge": false
+    "neoforge": false
+  swaps: {}
+  dependencies: {}
+  excludedExtensions:
+  - "png"
+  - "jpg"
+  - "jpeg"
+  - "webp"
+  - "gif"
+  - "svg"
+  - "mp3"
+  - "wav"
+  - "ogg"
+  - "DS_Store"
+  excludedPaths: []
