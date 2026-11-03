@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/versions/1.20.1-forge/Realms++.1_20_1-forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/versions/1.20.1-forge/Realms++.1_20_1-forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/versions/1.20.1-forge/Realms++.1_20_1-forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/versions/1.20.1-forge/Realms++.1_20_1-forge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/versions/1.21.1-neoforge/Realms++.1_21_1-neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/versions/1.21.1-neoforge/Realms++.1_21_1-neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/versions/1.21.1-neoforge/Realms++.1_21_1-neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/versions/1.21.1-neoforge/Realms++.1_21_1-neoforge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/versions/1.21.11-fabric/Realms++.1_21_11-fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/versions/1.21.11-fabric/Realms++.1_21_11-fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/versions/1.21.11-fabric/Realms++.1_21_11-fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/versions/1.21.11-fabric/Realms++.1_21_11-fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/versions/1.21.11-neoforge/Realms++.1_21_11-neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/versions/1.21.11-neoforge/Realms++.1_21_11-neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/versions/1.21.11-neoforge/Realms++.1_21_11-neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/versions/1.21.11-neoforge/Realms++.1_21_11-neoforge.test.iml" />
+    </modules>
+  </component>
+</project>
